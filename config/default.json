@@ -1,0 +1,4 @@
+{
+   "mongodb_URI":"mongodb+srv://bergie:rLx41V5DiYlfOEfD@bookcluster.ge82qyu.mongodb.net/?retryWrites=true&w=majority",
+   "jwtSecret": "secrettoken"
+}
